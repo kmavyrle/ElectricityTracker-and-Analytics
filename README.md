@@ -55,6 +55,7 @@ First-time Users:
  ![image](https://user-images.githubusercontent.com/85161103/160041058-98e3dbcd-e7e1-42f9-8f9f-0ae155f07dd9.png)
 
 4.	A printout of your information will then be done as shown:
+ 
  ![image](https://user-images.githubusercontent.com/85161103/160041077-a9a3bf53-6557-43f2-a3df-c550ef2592a0.png)
 
 Repeated users:
@@ -76,8 +77,8 @@ First-time users:
 •	Television
 Other estimated fixed costs within the household will also be automatically added such as the refrigerator and other residual costs.
 4.	If you key in a wrong data type into our program, it will re-run the particular component again for you to input. Also, if you would like to change your inputs if you made an error, a prompt will ask if you would like to confirm your inputs as shown:
- ![image](https://user-images.githubusercontent.com/85161103/160041134-4c75e913-9e6c-4336-9093-47d52251eab5.png)
-
+  
+  ![image](https://user-images.githubusercontent.com/85161103/160041134-4c75e913-9e6c-4336-9093-47d52251eab5.png)
 
 If you enter ‘y’, this will confirm your inputs and the program will proceed to the next step. Inputting ‘n’ will re-run this step for you to input the hours used per appliance.
 5.	Your inputs will then be saved into a csv file in your designated working directory so that you do not have to re-input them in future.
