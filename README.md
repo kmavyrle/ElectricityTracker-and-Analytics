@@ -1,5 +1,5 @@
 # ElectricityTracker-and-Analytics
-Coursework AB0403 Decision Making with Programming and Analytics
+Coursework: AB0403 Decision Making with Programming and Analytics
  
 ## 1. Objective of the Project
 Our group has decided to simulate an electricity consumption tracker program to address the topic on climate change. We have identified our target audience to be local households instead of commercial sectors and designed our program for general public use. More specifically, households that are willing to save electricity but find it inconvenient and lack the motivation to do so.
