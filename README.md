@@ -1,6 +1,7 @@
 # ElectricityTracker-and-Analytics
 Coursework: AB0403 Decision Making with Programming and Analytics
- 
+
+# Part 1: Electricity Tracker Program
 ## 1. Objective of the Project
 Our group has decided to simulate an electricity consumption tracker program to address the topic on climate change. We have identified our target audience to be local households instead of commercial sectors and designed our program for general public use. More specifically, households that are willing to save electricity but find it inconvenient and lack the motivation to do so.
 
@@ -125,4 +126,6 @@ An example of the printout is as shown:
 1.	For this component, your usage of electricity appliances will be compared to the national average based on the percentage of total costs.
 2.	For appliances which exceed the national average percentage use, targeted advice will be provided to you on how you can reduce consumption for the particular electrical appliance as shown:
  ![image](https://user-images.githubusercontent.com/85161103/160041243-ed509867-1f45-4662-8214-e0fea11fd77a.png)
+ 
+ # Part 2: Analytics
 
