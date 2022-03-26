@@ -56,7 +56,7 @@ Another subtlety that we have incorporated into our program would be to identify
 4.	A printout of your information will then be done as shown:
   ![image](https://user-images.githubusercontent.com/85161103/160041077-a9a3bf53-6557-43f2-a3df-c550ef2592a0.png)
 
-Repeated users:
+For Repeated users:
 1.	The program will automatically import your saved information from the csv document and run the program.
 2.	Hence you would not need to re-input this information again.
 
