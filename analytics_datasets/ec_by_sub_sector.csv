@@ -1,0 +1,225 @@
+year,sector,subsector,electricity_consumption_gwh
+2005,Industry-Related,Manufacturing,13836.13
+2005,Industry-Related,Construction,234.7797773
+2005,Industry-Related,Utilities,410.9750725
+2005,Industry-Related,Other Industry-Related,27.15382418
+2005,Commercial-Related,Wholesale and Retail Trade,2109.8
+2005,Commercial-Related,Accomodation and Food Services,1031.33
+2005,Commercial-Related,Information and Communications,667.1916185
+2005,Commercial-Related,Financial and Insurance Activities,1291.94
+2005,Commercial-Related,Real Estate Activities,3712.42
+2005,Commercial-Related,"Professional, Scientific",650.2266305
+2005,Commercial-Related,Other Commercial-Related,3612.7
+2005,Transport-Related,Transport-Related,1200.01
+2005,Households,Households,6092.46
+2005,Others,Others,612.1397596
+2006,Industry-Related,Manufacturing,14397.16
+2006,Industry-Related,Construction,250.5233416
+2006,Industry-Related,Utilities,441.8148195
+2006,Industry-Related,Other Industry-Related,25.8785815
+2006,Commercial-Related,Wholesale and Retail Trade,1977.24
+2006,Commercial-Related,Accomodation and Food Services,1087.05
+2006,Commercial-Related,Information and Communications,708.7072216
+2006,Commercial-Related,Financial and Insurance Activities,1659.68
+2006,Commercial-Related,Real Estate Activities,3780.78
+2006,Commercial-Related,"Professional, Scientific",740.4570708
+2006,Commercial-Related,Other Commercial-Related,3831.81
+2006,Transport-Related,Transport-Related,1245.39
+2006,Households,Households,6109.13
+2006,Others,Others,546.1866564
+2007,Industry-Related,Manufacturing,14943.19
+2007,Industry-Related,Construction,279.127954
+2007,Industry-Related,Utilities,569.1559425
+2007,Industry-Related,Other Industry-Related,27.49112126
+2007,Commercial-Related,Wholesale and Retail Trade,1891.93
+2007,Commercial-Related,Accomodation and Food Services,1131.45
+2007,Commercial-Related,Information and Communications,761.2494853
+2007,Commercial-Related,Financial and Insurance Activities,2014.58
+2007,Commercial-Related,Real Estate Activities,3809.96
+2007,Commercial-Related,"Professional, Scientific",834.2393188
+2007,Commercial-Related,Other Commercial-Related,4077.17
+2007,Transport-Related,Transport-Related,1300.16
+2007,Households,Households,6163.74
+2007,Others,Others,501.4693271
+2008,Industry-Related,Manufacturing,15032.67
+2008,Industry-Related,Construction,300.8765311
+2008,Industry-Related,Utilities,668.3618988
+2008,Industry-Related,Other Industry-Related,28.96758662
+2008,Commercial-Related,Wholesale and Retail Trade,1924.69
+2008,Commercial-Related,Accomodation and Food Services,1171.67
+2008,Commercial-Related,Information and Communications,844.527343
+2008,Commercial-Related,Financial and Insurance Activities,2014.86
+2008,Commercial-Related,Real Estate Activities,3931.23
+2008,Commercial-Related,"Professional, Scientific",841.9872376
+2008,Commercial-Related,Other Commercial-Related,4275.67
+2008,Transport-Related,Transport-Related,1399.83
+2008,Households,Households,6094.03
+2008,Others,Others,457.5854964
+2009,Industry-Related,Manufacturing,14539.66
+2009,Industry-Related,Construction,308.2953492
+2009,Industry-Related,Utilities,691.8761358
+2009,Industry-Related,Other Industry-Related,30.42788444
+2009,Commercial-Related,Wholesale and Retail Trade,1821.37
+2009,Commercial-Related,Accomodation and Food Services,1169.19
+2009,Commercial-Related,Information and Communications,865.98495
+2009,Commercial-Related,Financial and Insurance Activities,1865.43
+2009,Commercial-Related,Real Estate Activities,4050.85
+2009,Commercial-Related,"Professional, Scientific",778.4293624
+2009,Commercial-Related,Other Commercial-Related,4248.81
+2009,Transport-Related,Transport-Related,1607.81
+2009,Households,Households,6430.8
+2009,Others,Others,413.9405639
+2010,Industry-Related,Manufacturing,16448.03
+2010,Industry-Related,Construction,337.8392136
+2010,Industry-Related,Utilities,843.3975066
+2010,Industry-Related,Other Industry-Related,33.30951385
+2010,Commercial-Related,Wholesale and Retail Trade,1922.97
+2010,Commercial-Related,Accomodation and Food Services,1219.62
+2010,Commercial-Related,Information and Communications,925.4830415
+2010,Commercial-Related,Financial and Insurance Activities,1926.99
+2010,Commercial-Related,Real Estate Activities,4346.16
+2010,Commercial-Related,"Professional, Scientific",885.7695807
+2010,Commercial-Related,Other Commercial-Related,4242.73
+2010,Transport-Related,Transport-Related,2098.68
+2010,Households,Households,6635.97
+2010,Others,Others,384.8057052
+2011,Industry-Related,Manufacturing,16752.4
+2011,Industry-Related,Construction,362.9679315
+2011,Industry-Related,Utilities,928.504886
+2011,Industry-Related,Other Industry-Related,33.63363228
+2011,Commercial-Related,Wholesale and Retail Trade,1898.85
+2011,Commercial-Related,Accomodation and Food Services,1251.37
+2011,Commercial-Related,Information and Communications,988.6486524
+2011,Commercial-Related,Financial and Insurance Activities,2003.17
+2011,Commercial-Related,Real Estate Activities,4454.69
+2011,Commercial-Related,"Professional, Scientific",934.0836861
+2011,Commercial-Related,Other Commercial-Related,4345.44
+2011,Transport-Related,Transport-Related,2224.17
+2011,Households,Households,6482.7
+2011,Others,Others,346.5077044
+2012,Industry-Related,Manufacturing,17112.4
+2012,Industry-Related,Construction,443.6891384
+2012,Industry-Related,Utilities,978.9150462
+2012,Industry-Related,Other Industry-Related,37.52704647
+2012,Commercial-Related,Wholesale and Retail Trade,1909.36
+2012,Commercial-Related,Accomodation and Food Services,1275.14
+2012,Commercial-Related,Information and Communications,1084.42
+2012,Commercial-Related,Financial and Insurance Activities,2204.2
+2012,Commercial-Related,Real Estate Activities,4522.6
+2012,Commercial-Related,"Professional, Scientific",930.7881143
+2012,Commercial-Related,Other Commercial-Related,4439.58
+2012,Transport-Related,Transport-Related,2328.59
+2012,Households,Households,6629.53
+2012,Others,Others,303.9688687
+2013,Industry-Related,Manufacturing,17237.38
+2013,Industry-Related,Construction,490.5363536
+2013,Industry-Related,Utilities,1074.84
+2013,Industry-Related,Other Industry-Related,40.06373092
+2013,Commercial-Related,Wholesale and Retail Trade,1967.08
+2013,Commercial-Related,Accomodation and Food Services,1326.57
+2013,Commercial-Related,Information and Communications,1149.09
+2013,Commercial-Related,Financial and Insurance Activities,2257.94
+2013,Commercial-Related,Real Estate Activities,4532.39
+2013,Commercial-Related,"Professional, Scientific",932.74264
+2013,Commercial-Related,Other Commercial-Related,4552.8
+2013,Transport-Related,Transport-Related,2369.09
+2013,Households,Households,6754.91
+2013,Others,Others,263.3827324
+2014,Industry-Related,Manufacturing,17988.95
+2014,Industry-Related,Construction,527.117294
+2014,Industry-Related,Utilities,1197.96
+2014,Industry-Related,Other Industry-Related,39.16869764
+2014,Commercial-Related,Wholesale and Retail Trade,2020.5
+2014,Commercial-Related,Accomodation and Food Services,1332.27
+2014,Commercial-Related,Information and Communications,1294.52
+2014,Commercial-Related,Financial and Insurance Activities,2574.1
+2014,Commercial-Related,Real Estate Activities,4485.74
+2014,Commercial-Related,"Professional, Scientific",680.9593286
+2014,Commercial-Related,Other Commercial-Related,4658.54
+2014,Transport-Related,Transport-Related,2441.03
+2014,Households,Households,6924.39
+2014,Others,Others,237.7006635
+2015,Industry-Related,Manufacturing,18277.61
+2015,Industry-Related,Construction,531.0360408
+2015,Industry-Related,Utilities,1237.16
+2015,Industry-Related,Other Industry-Related,42.19591686
+2015,Commercial-Related,Wholesale and Retail Trade,2107.42
+2015,Commercial-Related,Accomodation and Food Services,1350.2
+2015,Commercial-Related,Information and Communications,1426.75
+2015,Commercial-Related,Financial and Insurance Activities,2718.12
+2015,Commercial-Related,Real Estate Activities,4454.57
+2015,Commercial-Related,"Professional, Scientific",713.7016743
+2015,Commercial-Related,Other Commercial-Related,4710.28
+2015,Transport-Related,Transport-Related,2444.83
+2015,Households,Households,7220.93
+2015,Others,Others,279.1390577
+2016,Industry-Related,Manufacturing,18370.91
+2016,Industry-Related,Construction,551.5711261
+2016,Industry-Related,Utilities,1450.14
+2016,Industry-Related,Other Industry-Related,45.8183032
+2016,Commercial-Related,Wholesale and Retail Trade,2073.37
+2016,Commercial-Related,Accomodation and Food Services,1453.24
+2016,Commercial-Related,Information and Communications,1847.97
+2016,Commercial-Related,Financial and Insurance Activities,2361.69
+2016,Commercial-Related,Real Estate Activities,4497.02
+2016,Commercial-Related,"Professional, Scientific",683.4310531
+2016,Commercial-Related,Other Commercial-Related,4782.6
+2016,Transport-Related,Transport-Related,2639.37
+2016,Households,Households,7589.44
+2016,Others,Others,280.0659647
+2017,Industry-Related,Manufacturing,19581.67
+2017,Industry-Related,Construction,484.3487678
+2017,Industry-Related,Utilities,1402.62
+2017,Industry-Related,Other Industry-Related,47.68455175
+2017,Commercial-Related,Wholesale and Retail Trade,1994.5
+2017,Commercial-Related,Accomodation and Food Services,1444.9
+2017,Commercial-Related,Information and Communications,1873.47
+2017,Commercial-Related,Financial and Insurance Activities,2342.85
+2017,Commercial-Related,Real Estate Activities,4700.88
+2017,Commercial-Related,"Professional, Scientific",703.7763967
+2017,Commercial-Related,Other Commercial-Related,4743.89
+2017,Transport-Related,Transport-Related,2750.76
+2017,Households,Households,7295.82
+2017,Others,Others,276.4822746
+2018,Industry-Related,Manufacturing,19451.5
+2018,Industry-Related,Construction,432.2902376
+2018,Industry-Related,Utilities,1518.68
+2018,Industry-Related,Other Industry-Related,48.26049579
+2018,Commercial-Related,Wholesale and Retail Trade,2292.9
+2018,Commercial-Related,Accomodation and Food Services,1463.95
+2018,Commercial-Related,Information and Communications,2230.46
+2018,Commercial-Related,Financial and Insurance Activities,2358.95
+2018,Commercial-Related,Real Estate Activities,4636.18
+2018,Commercial-Related,"Professional, Scientific",719.892865
+2018,Commercial-Related,Other Commercial-Related,4860.08
+2018,Transport-Related,Transport-Related,2943.62
+2018,Households,Households,7221.43
+2018,Others,Others,270.7036482
+2019,Industry-Related,Manufacturing,19422.35
+2019,Industry-Related,Construction,395.1613056
+2019,Industry-Related,Utilities,1573.64
+2019,Industry-Related,Other Industry-Related,53.29794972
+2019,Commercial-Related,Wholesale and Retail Trade,2265.49
+2019,Commercial-Related,Accomodation and Food Services,1523.35
+2019,Commercial-Related,Information and Communications,2491.81
+2019,Commercial-Related,Financial and Insurance Activities,2379.33
+2019,Commercial-Related,Real Estate Activities,4865.36
+2019,Commercial-Related,"Professional, Scientific",807.3884718
+2019,Commercial-Related,Other Commercial-Related,4982.24
+2019,Transport-Related,Transport-Related,3020.93
+2019,Households,Households,7688.01
+2019,Others,Others,251.6702766
+2020,Industry-Related,Manufacturing,11097.94908
+2020,Industry-Related,Construction,211.6018457
+2020,Industry-Related,Utilities,1685.917726
+2020,Industry-Related,Other Industry-Related,29.41548407
+2020,Commercial-Related,Wholesale and Retail Trade,1249.003823
+2020,Commercial-Related,Accomodation and Food Services,753.0940057
+2020,Commercial-Related,Information and Communications,1661.960142
+2020,Commercial-Related,Financial and Insurance Activities,1281.910013
+2020,Commercial-Related,Real Estate Activities,2514.581896
+2020,Commercial-Related,"Professional, Scientific",448.1957188
+2020,Commercial-Related,Other Commercial-Related,2558.787853
+2020,Transport-Related,Transport-Related,1608.405576
+2020,Households,Households,4861.229678
+2020,Others,Others,129.8651031
