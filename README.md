@@ -128,4 +128,5 @@ An example of the printout is as shown:
  ![image](https://user-images.githubusercontent.com/85161103/160041243-ed509867-1f45-4662-8214-e0fea11fd77a.png)
  
  # Part 2: Analytics
+ For performing analytics, we took a top down approach to investigate energy consumption trends globally, before zooming into Singapore.
 
