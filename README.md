@@ -1,5 +1,5 @@
 # ElectricityTracker-and-Analytics
-Coursework: AB0403 Decision Making with Programming and Analytics
+AB0403 Decision Making with Programming and Analytics School Coursework
 
 # Part 1: Electricity Tracker Program
 ## 1. Objective of the Project
